@@ -1,0 +1,1 @@
+this prject is for practiceing CI/CD
