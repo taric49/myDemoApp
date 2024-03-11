@@ -1,4 +1,4 @@
-this prject is for practiceing CI/CD using some arbitrary method
+this prject is for practising CI/CD using some arbitrary method
 
 Demo site: https://agile-basin-27751-41243cf85e69.herokuapp.com/
 
